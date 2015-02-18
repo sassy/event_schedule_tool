@@ -38,3 +38,7 @@ gem 'spring',        group: :development
 # Use debugger
 # gem 'debugger', group: [:development, :test]
 
+# OmiAuth
+gem 'omniauth'
+gem 'omniauth-github'
+
